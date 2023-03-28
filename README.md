@@ -22,8 +22,9 @@ The goals for your written reflection are:
 ## Possible Pieces of Evidence
 
 - In-Class Assignments/Projects 
-- Hackathon result
+- Hackathon 
 - Final Project
+- Paper Discussion 
 - Class Notes
 - Self-eval check-in sheets 
 - Attendance
@@ -40,19 +41,20 @@ _When you make a copy, you can delete everything above here and use the below as
 
 _Replace each "POE#" with the actual item you are including_
 
-3 pieces of evidence required for each. 4 pieces required for each if self-assigning an A or A-. 
-### L1: Design and Implementation of Basic Data Structures
+2 pieces of evidence required for each. 3 pieces required for each if self-assigning an A or A-. 
+
+### L1: Evolution as an Algorithm
 - [ ] POE1
 - [ ] POE2
 - [ ] POE3*
 
-### L2: Applications of Basic Data Structures
+### L2: Artificial Life as a Field
 
 - [ ] POE1
 - [ ] POE2
 - [ ] POE3*
 
-### L3: Reading and Writing Computationally
+### L3: Computational Collaboration
 
 - [ ] POE1
 - [ ] POE2
